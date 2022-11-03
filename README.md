@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 👋 Hello! Welcome to my Github profile.
-My name is Juliana and my nickname is Juu!
+Eai Dev! Aqui é a Juliana, mas pode me chamar de Ju. Tenho 19 anos e sou apaixonada em coding, a curiosidade é o que me motiva. Aliás que satisfação é ver o código 
+rodando redondinho 
 
 🌱 Atualmente estou aprendendo
 
