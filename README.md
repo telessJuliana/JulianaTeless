@@ -18,13 +18,14 @@ Here are some ideas to get you started:
 👋 Hello! Welcome to my Github profile.
 
 Eai Dev! Aqui é a Juliana, mas pode me chamar de Ju .Aliás, muito bom te ver por aqui! 😊🎈
--🦀Tenho 19 anos 
 
--💕Apaixonada em coding
+🦀Tenho 19 anos 
 
--😄 Pronomes: She/Her
+💕Apaixonada em coding
 
--⚡ Curiosidade: Gosto de práticar Bodyboarding 🌊
+😄 Pronomes: She/Her
+
+⚡ Curiosidade: Gosto de práticar Bodyboarding 🌊
 
 🌱 Atualmente estou aprendendo
 
