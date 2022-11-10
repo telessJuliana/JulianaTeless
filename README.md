@@ -16,16 +16,15 @@ Here are some ideas to get you started:
 -->
 
 👋 Hello! Welcome to my Github profile.
-Eai Dev! Aqui é a Juliana, mas pode me chamar de Ju. Tenho 19 anos e sou apaixonada em coding, a curiosidade é o que me motiva. Aliás que satisfação é ver o código 
-rodando redondinho 
-
+Eai Dev! Aqui é a Juliana, mas pode me chamar de Ju. Tenho 19 anos e sou apaixonada em coding, a curiosidade é o que me motiva. Aliás, muito bom te ver por aqui!
+😄 Pronomes: She/Her
+⚡ Curiosidade: Gosto de práticar Bodyboarding 🌊
 🌱 Atualmente estou aprendendo
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/>
 
-😄 Pronomes: She/Her
-
-⚡ Curiosidade: Gosto de práticar Bodyboarding 🌊
 
  📫 Como entrar em contato comigo: 
   <a href = "mailto:jtelessoares.jt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
