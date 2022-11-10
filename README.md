@@ -19,15 +19,19 @@ Here are some ideas to get you started:
 
 Eai Dev! Aqui é a Juliana, mas pode me chamar de Ju .Aliás, muito bom te ver por aqui! 😊🎈
 -🦀Tenho 19 anos 
+
 -💕Apaixonada em coding
+
 -😄 Pronomes: She/Her
+
 -⚡ Curiosidade: Gosto de práticar Bodyboarding 🌊
+
 🌱 Atualmente estou aprendendo
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/>
 
 
  -📫 Como entrar em contato comigo: 
+  
   <a href = "mailto:jtelessoares.jt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
