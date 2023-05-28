@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Eai Dev! Aqui é a Juliana, mas pode me chamar de Ju .Aliás, muito bom te ver por aqui! 😊🎈
 
-🦀Tenho 19 anos 
+🦀Tenho 20 anos 
 
 💕Apaixonada em coding
 
